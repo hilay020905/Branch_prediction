@@ -48,6 +48,16 @@ The following performance metrics are plotted and compared:
 
 ## 📦 Requirements
 
+👨‍💻 Author Hilay Patel
+
+🎓 [Indian institue of technology, Tirupati]
+
+📧 ee23b066@iittp.ac.in
+
+🌐 [LinkedIn Profile: www.linkedin.com/in/hilay-patel-84a052286]
+
+Thank you for exploring this project! Feel free to fork, use, or contribute. PRs are welcome! 🙌
+
 Install dependencies using pip:
 
 ```bash
